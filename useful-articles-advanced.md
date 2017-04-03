@@ -1,10 +1,10 @@
 # Полезные статейки по JS [03.04.2017]
 
-## [Кратко о том что вообще происходит в мире js](https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56)
+## [Кратко о том что вообще происходит в мире js, обзор терминов и понятий](https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56)
 
 ## Иммутабельность
 О том что это, зачем нужо и какие в этом выгоды описано в [этом ответе на stackowerflow](http://stackoverflow.com/questions/34385243/why-is-immutability-so-importantor-needed-in-javascript), а так же даны несколько интересных ссылок на эту тему.
-Парочку примеров использования принципа иммутабельности нативными методами JS [можно посмотереть тут](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/).
+Парочку примеров использования принципа иммутабельности в ES6 [можно посмотереть тут](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/).
 
 ## ES6
 Для тех кто слабо знаком рекомендую статьи на [jsracoon](http://jsraccoon.ru/tag/es6), читать начиная с последней, если что.
